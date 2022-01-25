@@ -25,10 +25,10 @@ I am a student who loves learning new things. I am currently working on Data Str
     - Spanish
   
  ## Connect me on:
-
-[https://www.instagram.com/enniepant/](https://www.pngwing.com/en/free-png-bmqxd)
-
-[https://www.linkedin.com/in/binisha-pant-2322991a0/]
+<a href = 'https://www.instagram.com/enniepant/'> <img width = '45px' align= 'center'      
+src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png"></a>
+<a href = 'https://www.linkedin.com/in/binishapant/'> <img width = '45px' align= 'center'
+src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/></a>
  
  # Github Stats of Binisha
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bpnt)](https://github.com/bpnt/github-readme-stats)
