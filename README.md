@@ -32,6 +32,8 @@ src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/></a>
  
  # Github Stats of Binisha
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bpnt)](https://github.com/bpnt/github-readme-stats)
+ 
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bpnt&theme=dark)](https://github.com/bpnt/streak-stats)
 
  
     
