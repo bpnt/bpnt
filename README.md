@@ -29,7 +29,7 @@ src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/></a>
 <a href = 'https://www.instagram.com/enniepant/'> <img width = '45px' align= 'center'      
 src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png"></a>
 <a href = 'https://discord.com/channels/@me'> <img width = '45px' align= 'center'
-src = "https://github.com/bpnt/bpnt/blob/main/images/discord.png" height ="70px"/></a>
+src = "https://github.com/bpnt/bpnt/blob/main/images/discord.png"></a>
  
  # My Github Stats ⭐
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bpnt&theme=dark)](https://github.com/bpnt/streak-stats)[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bpnt)](https://github.com/bpnt/github-readme-stats)
