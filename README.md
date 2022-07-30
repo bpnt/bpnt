@@ -15,6 +15,8 @@ I am a student who loves learning new things. I am currently working on Data Str
   <img src = "https://github.com/jvnp/jvnp/blob/main/images/bootstrap.svg" height ="70px"/>
   <img src = "https://github.com/jvnp/jvnp/blob/main/images/cpp.svg" height ="70px"/>
   <img src = "https://github.com/jvnp/jvnp/blob/main/images/css.svg" height ="70px"/>
+  <img src = "https://github.com/jvnp/jvnp/blob/main/images/python.svg" height ="70px"/>
+  <img src = "https://github.com/jvnp/jvnp/blob/main/images/nodejs.svg" height ="70px"/>
   </p>
  
  - **Language Skills**
