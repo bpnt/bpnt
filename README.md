@@ -6,7 +6,7 @@ I am **Binisha Pant⭐**
 
 ## About Me
 
-I am a student who loves learning new things. I am currently working on Data Structures and Algorithms.
+I am a student who loves learning new things. I am currently working on Data Structures and Algorithms and Web Development.
 
 ## Coding Skills
 
